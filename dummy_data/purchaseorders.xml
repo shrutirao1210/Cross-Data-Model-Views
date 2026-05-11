@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PurchaseOrders>
+    <!-- Customer 1: Alice Johnson - Electronics and Furniture -->
+    <PurchaseOrder>
+        <order_id>101</order_id>
+        <customer_id>1</customer_id>
+        <amount>45000</amount>
+        <item>
+            <item_name>Laptop</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <PurchaseOrder>
+        <order_id>102</order_id>
+        <customer_id>1</customer_id>
+        <amount>5000</amount>
+        <item>
+            <item_name>Office Chair</item_name>
+            <item_category>Furniture</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <!-- Customer 2: Bob Smith - Multiple orders -->
+    <PurchaseOrder>
+        <order_id>103</order_id>
+        <customer_id>2</customer_id>
+        <amount>8000</amount>
+        <item>
+            <item_name>Monitor</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <PurchaseOrder>
+        <order_id>104</order_id>
+        <customer_id>2</customer_id>
+        <amount>3000</amount>
+        <item>
+            <item_name>Keyboard</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <!-- Customer 3: Charlie Brown - High value purchase -->
+    <PurchaseOrder>
+        <order_id>105</order_id>
+        <customer_id>3</customer_id>
+        <amount>120000</amount>
+        <item>
+            <item_name>Server</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <!-- Customer 4: Diana Prince - Furniture focus -->
+    <PurchaseOrder>
+        <order_id>106</order_id>
+        <customer_id>4</customer_id>
+        <amount>15000</amount>
+        <item>
+            <item_name>Desk</item_name>
+            <item_category>Furniture</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <PurchaseOrder>
+        <order_id>107</order_id>
+        <customer_id>4</customer_id>
+        <amount>8000</amount>
+        <item>
+            <item_name>Bookshelf</item_name>
+            <item_category>Furniture</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <!-- Customer 5: Eve Wilson - High spender -->
+    <PurchaseOrder>
+        <order_id>108</order_id>
+        <customer_id>5</customer_id>
+        <amount>55000</amount>
+        <item>
+            <item_name>Laptop</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <PurchaseOrder>
+        <order_id>109</order_id>
+        <customer_id>5</customer_id>
+        <amount>12000</amount>
+        <item>
+            <item_name>Monitor</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <PurchaseOrder>
+        <order_id>110</order_id>
+        <customer_id>5</customer_id>
+        <amount>25000</amount>
+        <item>
+            <item_name>Desk</item_name>
+            <item_category>Furniture</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <!-- Customer 6: Frank Miller - Low spender -->
+    <PurchaseOrder>
+        <order_id>111</order_id>
+        <customer_id>6</customer_id>
+        <amount>2000</amount>
+        <item>
+            <item_name>Mouse</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <!-- Customer 7: Grace Lee - Diverse purchases -->
+    <PurchaseOrder>
+        <order_id>112</order_id>
+        <customer_id>7</customer_id>
+        <amount>35000</amount>
+        <item>
+            <item_name>Laptop</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <PurchaseOrder>
+        <order_id>113</order_id>
+        <customer_id>7</customer_id>
+        <amount>9000</amount>
+        <item>
+            <item_name>Office Chair</item_name>
+            <item_category>Furniture</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <!-- Customer 8: Henry Taylor - High value electronics -->
+    <PurchaseOrder>
+        <order_id>114</order_id>
+        <customer_id>8</customer_id>
+        <amount>75000</amount>
+        <item>
+            <item_name>Server</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <!-- Customer 9: Isaac Newton - Low value -->
+    <PurchaseOrder>
+        <order_id>115</order_id>
+        <customer_id>9</customer_id>
+        <amount>1500</amount>
+        <item>
+            <item_name>Mouse</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <!-- Customer 10: Julia Roberts - High value customer -->
+    <PurchaseOrder>
+        <order_id>116</order_id>
+        <customer_id>10</customer_id>
+        <amount>95000</amount>
+        <item>
+            <item_name>Laptop</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+    <PurchaseOrder>
+        <order_id>117</order_id>
+        <customer_id>10</customer_id>
+        <amount>18000</amount>
+        <item>
+            <item_name>Monitor</item_name>
+            <item_category>Electronics</item_category>
+        </item>
+    </PurchaseOrder>
+
+</PurchaseOrders>
